@@ -1,0 +1,11 @@
+
+----------
+2018-10-15T13:31:30.681740+00:00
+----------
+Potential issues with this project:
+  * anaconda-project.yml: Command plot uses env spec anaconda44_py36 which does not have the packages: notebook
+
+Server available at 0.0.0.0:36630
+127.0.0.1 - - [15/Oct/2018 13:31:31] "GET /api/anaconda-project/proxy/project/default HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2018 13:31:32] "GET /api/anaconda-project/proxy/project/default HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2018 13:31:34] "GET /api/anaconda-project/proxy/project/default HTTP/1.1" 200 -

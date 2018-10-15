@@ -1,0 +1,16 @@
+
+----------
+2018-10-15T13:31:18.583536+00:00
+----------
+Potential issues with this project:
+  * anaconda-project.yml: Command plot uses env spec anaconda44_py36 which does not have the packages: notebook
+
+[W 13:31:20.803 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 13:31:20.814 NotebookApp] Serving notebooks from local directory: /opt/continuum/project
+[I 13:31:20.814 NotebookApp] 0 active kernels 
+[I 13:31:20.814 NotebookApp] The Jupyter Notebook is running at: http://localhost:41352/api/anaconda-project/proxy/project/plot/
+[I 13:31:20.814 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 13:31:20.815 NotebookApp] No web browser found: could not locate runnable browser.
+[I 13:31:21.101 NotebookApp] 302 GET /api/anaconda-project/proxy/project/plot (::1) 0.66ms
+[I 13:31:21.553 NotebookApp] 302 GET /api/anaconda-project/proxy/project/plot (::1) 0.49ms
+[I 13:31:24.069 NotebookApp] 302 GET /api/anaconda-project/proxy/project/plot (::1) 0.51ms
